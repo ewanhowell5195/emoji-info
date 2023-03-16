@@ -39,7 +39,7 @@ getEmoji("😳")
 
 ## isEmoji(emoji, textAllowed)
 
-Checkes wether a string is a valid emoji. The `textAllowed` argument allows emoji names to be entered, as well as the emoji character itself.
+Checkes wether a string is a valid emoji. The `textAllowed` argument allows emoji names to be entered as well.
 
 ```js
 getEmoji("😳") // true
