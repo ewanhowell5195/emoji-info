@@ -2,7 +2,7 @@ import emojis from "./emojis.json" assert { type: "json" }
 import fs from "node:fs"
 
 export const getEmoji = emoji => emojis.find(e => {
-  emoji = emoji.toLowerCase()
+  emoji = emoji.toLowerCase().replace(/^:(.+):$/, "$1")
   return e.emoji === emoji || e.names.includes(emoji.replace(/[\s-]/g, "_"))
 })
 

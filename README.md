@@ -21,6 +21,7 @@ import { getEmoji, isEmoji, emojiList, emojiInfo } from "emoji-info"
 ## getEmoji(emoji)
 
 Gets the information about an emoji, from either the character, or one of its names.
+The emoji is allowed to have `:` either side of it, eg: `:😳:`, `:flushed:`
 
 ```js
 getEmoji("😳")
