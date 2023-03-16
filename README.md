@@ -13,7 +13,7 @@ $ npm i emoji-info
 
 ## Usage
 ```js
-import { getEmoji, emojiList, emojiInfo } from "emoji-info"
+import { getEmoji, isEmoji, emojiList, emojiInfo } from "emoji-info"
 ```
 
 ---
@@ -26,21 +26,31 @@ Gets the information about an emoji, from either the character, or one of its na
 getEmoji("😳")
 
 // Outputs:
-// {
-//   "emoji": "😳",
-//   "names": [
-//     "flushed",
-//     "flushed_face"
-//   ],
-//   "codepoint": "1f633",
-//   "slug": "flushed-face"
-// }
+{
+  "emoji": "😳",
+  "names": [
+    "flushed",
+    "flushed_face"
+  ],
+  "codepoint": "1f633",
+  "slug": "flushed-face"
+}
+```
+
+## isEmoji(emoji, textAllowed)
+
+Checkes wether a string is a valid emoji. The `textAllowed` argument allows emoji names to be entered, as well as the emoji character itself.
+
+```js
+getEmoji("😳") // true
+getEmoji("flushed") // false
+getEmoji("flushed", true) // true
 ```
 
 ## emojiList
 
-Outputs an array of all emoji characters
+Outputs an array of all of the emoji characters.
 
 ## emojiInfo
 
-Outputs an array of all emoji information
+Outputs an array of the information for all emojis.

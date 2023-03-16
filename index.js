@@ -6,6 +6,13 @@ export const getEmoji = emoji => emojis.find(e => {
   return e.emoji === emoji || e.names.includes(emoji.replace(/[\s-]/g, "_"))
 })
 
+export function isEmoji(emoji, textAllowed) {
+  const found = getEmoji(emoji)
+  if (textAllowed && found) return true
+  if (found?.emoji === emoji) return true
+  return false
+}
+
 export const emojiList = emojis.map(e => e.emoji)
 
 export const emojiInfo = emojis
