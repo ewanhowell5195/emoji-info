@@ -43,9 +43,9 @@ getEmoji("😳")
 Checkes whether a string is a valid emoji. The `textAllowed` argument allows emoji names to be entered as well.
 
 ```js
-getEmoji("😳") // true
-getEmoji("flushed") // false
-getEmoji("flushed", true) // true
+isEmoji("😳") // true
+isEmoji("flushed") // false
+isEmoji("flushed", true) // true
 ```
 
 ## emojiList

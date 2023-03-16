@@ -1,6 +1,6 @@
 {
   "name": "emoji-info",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "type": "module",
   "description": "Get information about emojis",
   "exports": "./index.js",

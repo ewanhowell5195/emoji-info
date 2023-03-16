@@ -1,5 +1,20 @@
-import emojis from "./emojis.json" assert { type: "json" }
+import emojiData from "./emojis.json" assert { type: "json" }
 import fs from "node:fs"
+
+class Emoji {
+  constructor(args) {
+    this.emoji = args.emoji
+    this.names = args.names
+    this.codepoint = args.codepoint
+    this.slug = args.slug
+  }
+
+  toString() {
+    return this.emoji
+  }
+}
+
+const emojis = emojiData.map(e => new Emoji(e))
 
 export const getEmoji = emoji => emojis.find(e => {
   emoji = emoji.toLowerCase().replace(/^:(.+):$/, "$1")
@@ -9,7 +24,7 @@ export const getEmoji = emoji => emojis.find(e => {
 export function isEmoji(emoji, textAllowed) {
   const found = getEmoji(emoji)
   if (textAllowed && found) return true
-  if (found?.emoji === emoji) return true
+  if (found?.emoji === emoji.replace(/^:(.+):$/, "$1")) return true
   return false
 }
 
