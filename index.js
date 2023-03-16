@@ -3,10 +3,7 @@ import fs from "node:fs"
 
 class Emoji {
   constructor(args) {
-    this.emoji = args.emoji
-    this.names = args.names
-    this.codepoint = args.codepoint
-    this.slug = args.slug
+    Object.assign(this, args)
   }
 
   toString() {
