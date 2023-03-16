@@ -27,7 +27,7 @@ The emoji is allowed to have `:` either side of it, eg: `:😳:`, `:flushed:`
 getEmoji("😳")
 
 // Outputs:
-{
+Emoji {
   "emoji": "😳",
   "names": [
     "flushed",
