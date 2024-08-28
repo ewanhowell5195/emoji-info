@@ -1,4 +1,4 @@
-import emojiData from "./emojis.json" assert { type: "json" }
+import emojiData from "./emojis.json" with { type: "json" }
 import fs from "node:fs"
 
 class Emoji {
