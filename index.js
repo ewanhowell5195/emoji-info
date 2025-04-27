@@ -14,7 +14,7 @@ class Emoji {
 const emojis = emojiData.map(e => new Emoji(e))
 
 export const getEmoji = emoji => emojis.find(e => {
-  emoji = emoji.toLowerCase().replace(/^:(.+):$/, "$1")
+  emoji = emoji.toLowerCase().trim().replace(/^:(.+):$/, "$1")
   return e.emoji === emoji || e.names.includes(emoji.replace(/[\s-]/g, "_"))
 })
 
