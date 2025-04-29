@@ -161,7 +161,7 @@
     "slug": "kissing-face"
   },
   {
-    "emoji": "☺️",
+    "emoji": "☺",
     "names": [
       "relaxed",
       "smiling",
@@ -509,7 +509,7 @@
     "slug": "slightly-frowning-face"
   },
   {
-    "emoji": "☹️",
+    "emoji": "☹",
     "names": [
       "frowning2",
       "frowning_face",
@@ -784,7 +784,7 @@
     "slug": "skull"
   },
   {
-    "emoji": "☠️",
+    "emoji": "☠",
     "names": [
       "skull_and_crossbones",
       "skull_crossbones"
@@ -1083,7 +1083,7 @@
     "slug": "heart-decoration"
   },
   {
-    "emoji": "❣️",
+    "emoji": "❣",
     "names": [
       "heart_above_dot",
       "heart_exclamation",
@@ -1105,7 +1105,7 @@
     "slug": "broken-heart"
   },
   {
-    "emoji": "❤️",
+    "emoji": "❤",
     "names": [
       "heart",
       "love_heart",
@@ -1231,7 +1231,7 @@
     "slug": "dashing-away"
   },
   {
-    "emoji": "🕳️",
+    "emoji": "🕳",
     "names": [
       "hole"
     ],
@@ -1249,7 +1249,7 @@
     "slug": "speech-balloon"
   },
   {
-    "emoji": "🗯️",
+    "emoji": "🗯",
     "names": [
       "anger_right",
       "right_anger_bubble",
@@ -1293,7 +1293,7 @@
     "slug": "waving-hand"
   },
   {
-    "emoji": "🖐️",
+    "emoji": "🖐",
     "names": [
       "five_hand",
       "hand_splayed",
@@ -1339,7 +1339,7 @@
     "slug": "ok-hand"
   },
   {
-    "emoji": "✌️",
+    "emoji": "✌",
     "names": [
       "air_quotes",
       "peace",
@@ -1418,7 +1418,7 @@
     "slug": "backhand-index-pointing-down"
   },
   {
-    "emoji": "☝️",
+    "emoji": "☝",
     "names": [
       "index_pointing_up",
       "point_up",
@@ -1527,7 +1527,7 @@
     "slug": "folded-hands"
   },
   {
-    "emoji": "✍️",
+    "emoji": "✍",
     "names": [
       "writing_hand"
     ],
@@ -1592,7 +1592,7 @@
     "slug": "eyes"
   },
   {
-    "emoji": "👁️",
+    "emoji": "👁",
     "names": [
       "eye",
       "single_eye"
@@ -1794,7 +1794,7 @@
     "slug": "police-officer"
   },
   {
-    "emoji": "🕵️",
+    "emoji": "🕵",
     "names": [
       "detective",
       "private_eye",
@@ -1949,7 +1949,7 @@
     "slug": "woman-dancing"
   },
   {
-    "emoji": "🕴️",
+    "emoji": "🕴",
     "names": [
       "business_suit_levitating",
       "hovering_man",
@@ -1987,7 +1987,7 @@
     "slug": "horse-racing"
   },
   {
-    "emoji": "⛷️",
+    "emoji": "⛷",
     "names": [
       "skier"
     ],
@@ -2005,7 +2005,7 @@
     "slug": "snowboarder"
   },
   {
-    "emoji": "🏌️",
+    "emoji": "🏌",
     "names": [
       "golf",
       "golf_club",
@@ -2049,7 +2049,7 @@
     "slug": "person-swimming"
   },
   {
-    "emoji": "⛹️",
+    "emoji": "⛹",
     "names": [
       "basketball_player",
       "bouncing_ball_person",
@@ -2060,7 +2060,7 @@
     "slug": "person-bouncing-ball"
   },
   {
-    "emoji": "🏋️",
+    "emoji": "🏋",
     "names": [
       "bodybuilder",
       "lifter",
@@ -2169,7 +2169,7 @@
     "slug": "couple-with-heart"
   },
   {
-    "emoji": "🗣️",
+    "emoji": "🗣",
     "names": [
       "mansplaining",
       "shout",
@@ -2560,7 +2560,7 @@
     "slug": "rabbit"
   },
   {
-    "emoji": "🐿️",
+    "emoji": "🐿",
     "names": [
       "chipmunk",
       "squirrel"
@@ -2680,7 +2680,7 @@
     "slug": "penguin"
   },
   {
-    "emoji": "🕊️",
+    "emoji": "🕊",
     "names": [
       "dove",
       "dove_of_peace"
@@ -2866,7 +2866,7 @@
     "slug": "lady-beetle"
   },
   {
-    "emoji": "🕷️",
+    "emoji": "🕷",
     "names": [
       "spider"
     ],
@@ -2874,7 +2874,7 @@
     "slug": "spider"
   },
   {
-    "emoji": "🕸️",
+    "emoji": "🕸",
     "names": [
       "cobweb",
       "spider_web",
@@ -2921,7 +2921,7 @@
     "slug": "white-flower"
   },
   {
-    "emoji": "🏵️",
+    "emoji": "🏵",
     "names": [
       "rosette"
     ],
@@ -3043,7 +3043,7 @@
     "slug": "herb"
   },
   {
-    "emoji": "☘️",
+    "emoji": "☘",
     "names": [
       "clover",
       "shamrock",
@@ -3254,7 +3254,7 @@
     "slug": "ear-of-corn"
   },
   {
-    "emoji": "🌶️",
+    "emoji": "🌶",
     "names": [
       "chili_pepper",
       "hot_pepper",
@@ -3766,7 +3766,7 @@
     "slug": "clinking-beer-mugs"
   },
   {
-    "emoji": "🍽️",
+    "emoji": "🍽",
     "names": [
       "dinner",
       "fork_and_knife_with_plate",
@@ -3851,7 +3851,7 @@
     "slug": "globe-with-meridians"
   },
   {
-    "emoji": "🗺️",
+    "emoji": "🗺",
     "names": [
       "map",
       "world_map"
@@ -3869,7 +3869,7 @@
     "slug": "map-of-japan"
   },
   {
-    "emoji": "🏔️",
+    "emoji": "🏔",
     "names": [
       "mountain_snow",
       "snow_capped_mountain"
@@ -3878,7 +3878,7 @@
     "slug": "snow-capped-mountain"
   },
   {
-    "emoji": "⛰️",
+    "emoji": "⛰",
     "names": [
       "mountain"
     ],
@@ -3903,7 +3903,7 @@
     "slug": "mount-fuji"
   },
   {
-    "emoji": "🏕️",
+    "emoji": "🏕",
     "names": [
       "camping",
       "campsite"
@@ -3912,7 +3912,7 @@
     "slug": "camping"
   },
   {
-    "emoji": "🏖️",
+    "emoji": "🏖",
     "names": [
       "beach_umbrella",
       "beach_with_umbrella"
@@ -3921,7 +3921,7 @@
     "slug": "beach-with-umbrella"
   },
   {
-    "emoji": "🏜️",
+    "emoji": "🏜",
     "names": [
       "desert"
     ],
@@ -3929,7 +3929,7 @@
     "slug": "desert"
   },
   {
-    "emoji": "🏝️",
+    "emoji": "🏝",
     "names": [
       "desert_island",
       "island"
@@ -3938,7 +3938,7 @@
     "slug": "desert-island"
   },
   {
-    "emoji": "🏞️",
+    "emoji": "🏞",
     "names": [
       "national_park",
       "park"
@@ -3947,7 +3947,7 @@
     "slug": "national-park"
   },
   {
-    "emoji": "🏟️",
+    "emoji": "🏟",
     "names": [
       "grandstand",
       "sport_stadium",
@@ -3957,7 +3957,7 @@
     "slug": "stadium"
   },
   {
-    "emoji": "🏛️",
+    "emoji": "🏛",
     "names": [
       "classical_building"
     ],
@@ -3965,7 +3965,7 @@
     "slug": "classical-building"
   },
   {
-    "emoji": "🏗️",
+    "emoji": "🏗",
     "names": [
       "building_construction",
       "construction_site",
@@ -3975,7 +3975,7 @@
     "slug": "building-construction"
   },
   {
-    "emoji": "🏘️",
+    "emoji": "🏘",
     "names": [
       "homes",
       "house_buildings",
@@ -3985,7 +3985,7 @@
     "slug": "houses"
   },
   {
-    "emoji": "🏚️",
+    "emoji": "🏚",
     "names": [
       "abandoned_house",
       "derelict_house",
@@ -4214,7 +4214,7 @@
     "slug": "synagogue"
   },
   {
-    "emoji": "⛩️",
+    "emoji": "⛩",
     "names": [
       "kami_no_michi",
       "shinto_shrine"
@@ -4271,7 +4271,7 @@
     "slug": "night-with-stars"
   },
   {
-    "emoji": "🏙️",
+    "emoji": "🏙",
     "names": [
       "cityscape"
     ],
@@ -4327,7 +4327,7 @@
     "slug": "bridge-at-night"
   },
   {
-    "emoji": "♨️",
+    "emoji": "♨",
     "names": [
       "hot_springs",
       "hotsprings",
@@ -4661,7 +4661,7 @@
     "slug": "tractor"
   },
   {
-    "emoji": "🏎️",
+    "emoji": "🏎",
     "names": [
       "f1",
       "formula_one",
@@ -4672,7 +4672,7 @@
     "slug": "racing-car"
   },
   {
-    "emoji": "🏍️",
+    "emoji": "🏍",
     "names": [
       "motorbike",
       "motorcycle",
@@ -4700,7 +4700,7 @@
     "slug": "bus-stop"
   },
   {
-    "emoji": "🛣️",
+    "emoji": "🛣",
     "names": [
       "highway",
       "interstate",
@@ -4711,7 +4711,7 @@
     "slug": "motorway"
   },
   {
-    "emoji": "🛤️",
+    "emoji": "🛤",
     "names": [
       "railroad_track",
       "railway_track"
@@ -4720,7 +4720,7 @@
     "slug": "railway-track"
   },
   {
-    "emoji": "🛢️",
+    "emoji": "🛢",
     "names": [
       "oil",
       "oil_drum"
@@ -4812,7 +4812,7 @@
     "slug": "speedboat"
   },
   {
-    "emoji": "🛳️",
+    "emoji": "🛳",
     "names": [
       "cruise_ship",
       "passenger_ship"
@@ -4821,7 +4821,7 @@
     "slug": "passenger-ship"
   },
   {
-    "emoji": "⛴️",
+    "emoji": "⛴",
     "names": [
       "ferry"
     ],
@@ -4829,7 +4829,7 @@
     "slug": "ferry"
   },
   {
-    "emoji": "🛥️",
+    "emoji": "🛥",
     "names": [
       "motor_boat"
     ],
@@ -4846,7 +4846,7 @@
     "slug": "ship"
   },
   {
-    "emoji": "✈️",
+    "emoji": "✈",
     "names": [
       "aeroplane",
       "airplane",
@@ -4856,7 +4856,7 @@
     "slug": "airplane"
   },
   {
-    "emoji": "🛩️",
+    "emoji": "🛩",
     "names": [
       "airplane_small",
       "small_aeroplane",
@@ -4937,7 +4937,7 @@
     "slug": "aerial-tramway"
   },
   {
-    "emoji": "🛰️",
+    "emoji": "🛰",
     "names": [
       "artificial_satellite",
       "satellite",
@@ -4957,7 +4957,7 @@
     "slug": "rocket"
   },
   {
-    "emoji": "🛎️",
+    "emoji": "🛎",
     "names": [
       "bellhop_bell"
     ],
@@ -5004,7 +5004,7 @@
     "slug": "alarm-clock"
   },
   {
-    "emoji": "⏱️",
+    "emoji": "⏱",
     "names": [
       "stopwatch"
     ],
@@ -5012,7 +5012,7 @@
     "slug": "stopwatch"
   },
   {
-    "emoji": "⏲️",
+    "emoji": "⏲",
     "names": [
       "timer",
       "timer_clock"
@@ -5021,7 +5021,7 @@
     "slug": "timer-clock"
   },
   {
-    "emoji": "🕰️",
+    "emoji": "🕰",
     "names": [
       "mantelpiece_clock",
       "mantlepiece_clock"
@@ -5352,7 +5352,7 @@
     "slug": "last-quarter-moon-face"
   },
   {
-    "emoji": "🌡️",
+    "emoji": "🌡",
     "names": [
       "hot_weather",
       "temperature",
@@ -5362,7 +5362,7 @@
     "slug": "thermometer"
   },
   {
-    "emoji": "☀️",
+    "emoji": "☀",
     "names": [
       "sun",
       "sunny",
@@ -5437,7 +5437,7 @@
     "slug": "milky-way"
   },
   {
-    "emoji": "☁️",
+    "emoji": "☁",
     "names": [
       "cloud",
       "cloudy",
@@ -5456,7 +5456,7 @@
     "slug": "sun-behind-cloud"
   },
   {
-    "emoji": "⛈️",
+    "emoji": "⛈",
     "names": [
       "cloud_with_lightning_and_rain",
       "thunder_cloud_and_rain",
@@ -5466,7 +5466,7 @@
     "slug": "cloud-with-lightning-and-rain"
   },
   {
-    "emoji": "🌤️",
+    "emoji": "🌤",
     "names": [
       "mostly_sunny",
       "sun_behind_small_cloud",
@@ -5478,7 +5478,7 @@
     "slug": "sun-behind-small-cloud"
   },
   {
-    "emoji": "🌥️",
+    "emoji": "🌥",
     "names": [
       "barely_sunny",
       "sun_behind_large_cloud",
@@ -5489,7 +5489,7 @@
     "slug": "sun-behind-large-cloud"
   },
   {
-    "emoji": "🌦️",
+    "emoji": "🌦",
     "names": [
       "partly_sunny_rain",
       "sun_behind_rain_cloud",
@@ -5500,7 +5500,7 @@
     "slug": "sun-behind-rain-cloud"
   },
   {
-    "emoji": "🌧️",
+    "emoji": "🌧",
     "names": [
       "cloud_rain",
       "cloud_with_rain",
@@ -5510,7 +5510,7 @@
     "slug": "cloud-with-rain"
   },
   {
-    "emoji": "🌨️",
+    "emoji": "🌨",
     "names": [
       "cloud_snow",
       "cloud_with_snow",
@@ -5520,7 +5520,7 @@
     "slug": "cloud-with-snow"
   },
   {
-    "emoji": "🌩️",
+    "emoji": "🌩",
     "names": [
       "cloud_lightning",
       "cloud_with_lightning",
@@ -5531,7 +5531,7 @@
     "slug": "cloud-with-lightning"
   },
   {
-    "emoji": "🌪️",
+    "emoji": "🌪",
     "names": [
       "cloud_tornado",
       "cloud_with_tornado",
@@ -5542,7 +5542,7 @@
     "slug": "tornado"
   },
   {
-    "emoji": "🌫️",
+    "emoji": "🌫",
     "names": [
       "fog"
     ],
@@ -5550,7 +5550,7 @@
     "slug": "fog"
   },
   {
-    "emoji": "🌬️",
+    "emoji": "🌬",
     "names": [
       "blowing_wind",
       "mother_nature",
@@ -5592,7 +5592,7 @@
     "slug": "closed-umbrella"
   },
   {
-    "emoji": "☂️",
+    "emoji": "☂",
     "names": [
       "open_umbrella",
       "umbrella",
@@ -5612,7 +5612,7 @@
     "slug": "umbrella-with-rain-drops"
   },
   {
-    "emoji": "⛱️",
+    "emoji": "⛱",
     "names": [
       "parasol_on_ground",
       "umbrella_on_ground"
@@ -5632,7 +5632,7 @@
     "slug": "high-voltage"
   },
   {
-    "emoji": "❄️",
+    "emoji": "❄",
     "names": [
       "snow",
       "snowflake",
@@ -5642,7 +5642,7 @@
     "slug": "snowflake"
   },
   {
-    "emoji": "☃️",
+    "emoji": "☃",
     "names": [
       "snowing_snowman",
       "snowman",
@@ -5663,7 +5663,7 @@
     "slug": "snowman-without-snow"
   },
   {
-    "emoji": "☄️",
+    "emoji": "☄",
     "names": [
       "comet"
     ],
@@ -5869,7 +5869,7 @@
     "slug": "wrapped-gift"
   },
   {
-    "emoji": "🎗️",
+    "emoji": "🎗",
     "names": [
       "reminder_ribbon"
     ],
@@ -5877,7 +5877,7 @@
     "slug": "reminder-ribbon"
   },
   {
-    "emoji": "🎟️",
+    "emoji": "🎟",
     "names": [
       "admission_tickets",
       "tickets"
@@ -5896,7 +5896,7 @@
     "slug": "ticket"
   },
   {
-    "emoji": "🎖️",
+    "emoji": "🎖",
     "names": [
       "medal",
       "medal_military",
@@ -6063,7 +6063,7 @@
     "slug": "flag-in-hole"
   },
   {
-    "emoji": "⛸️",
+    "emoji": "⛸",
     "names": [
       "ice_skate",
       "ice_skating"
@@ -6166,7 +6166,7 @@
     "slug": "video-game"
   },
   {
-    "emoji": "🕹️",
+    "emoji": "🕹",
     "names": [
       "joystick"
     ],
@@ -6195,7 +6195,7 @@
     "slug": "game-die"
   },
   {
-    "emoji": "♠️",
+    "emoji": "♠",
     "names": [
       "spade_suit",
       "spades"
@@ -6204,7 +6204,7 @@
     "slug": "spade-suit"
   },
   {
-    "emoji": "♥️",
+    "emoji": "♥",
     "names": [
       "card_with_heart",
       "heart_suit",
@@ -6214,7 +6214,7 @@
     "slug": "heart-suit"
   },
   {
-    "emoji": "♦️",
+    "emoji": "♦",
     "names": [
       "diamond_suit",
       "diamonds"
@@ -6223,7 +6223,7 @@
     "slug": "diamond-suit"
   },
   {
-    "emoji": "♣️",
+    "emoji": "♣",
     "names": [
       "club_suit",
       "clubs"
@@ -6276,7 +6276,7 @@
     "slug": "performing-arts"
   },
   {
-    "emoji": "🖼️",
+    "emoji": "🖼",
     "names": [
       "frame_photo",
       "frame_with_picture",
@@ -6306,7 +6306,7 @@
     "slug": "glasses"
   },
   {
-    "emoji": "🕶️",
+    "emoji": "🕶",
     "names": [
       "dark_sunglasses",
       "sunglasses"
@@ -6419,7 +6419,7 @@
     "slug": "clutch-bag"
   },
   {
-    "emoji": "🛍️",
+    "emoji": "🛍",
     "names": [
       "shopping",
       "shopping_bags"
@@ -6537,7 +6537,7 @@
     "slug": "graduation-cap"
   },
   {
-    "emoji": "⛑️",
+    "emoji": "⛑",
     "names": [
       "helmet_with_cross",
       "helmet_with_white_cross",
@@ -6713,7 +6713,7 @@
     "slug": "musical-notes"
   },
   {
-    "emoji": "🎙️",
+    "emoji": "🎙",
     "names": [
       "microphone2",
       "studio_microphone"
@@ -6722,7 +6722,7 @@
     "slug": "studio-microphone"
   },
   {
-    "emoji": "🎚️",
+    "emoji": "🎚",
     "names": [
       "level_slider"
     ],
@@ -6730,7 +6730,7 @@
     "slug": "level-slider"
   },
   {
-    "emoji": "🎛️",
+    "emoji": "🎛",
     "names": [
       "control_knobs"
     ],
@@ -6839,7 +6839,7 @@
     "slug": "mobile-phone-with-arrow"
   },
   {
-    "emoji": "☎️",
+    "emoji": "☎",
     "names": [
       "phone",
       "rotary_phone",
@@ -6908,7 +6908,7 @@
     "slug": "laptop"
   },
   {
-    "emoji": "🖥️",
+    "emoji": "🖥",
     "names": [
       "desktop",
       "desktop_computer",
@@ -6918,7 +6918,7 @@
     "slug": "desktop-computer"
   },
   {
-    "emoji": "🖨️",
+    "emoji": "🖨",
     "names": [
       "printer"
     ],
@@ -6926,7 +6926,7 @@
     "slug": "printer"
   },
   {
-    "emoji": "⌨️",
+    "emoji": "⌨",
     "names": [
       "keyboard"
     ],
@@ -6934,7 +6934,7 @@
     "slug": "keyboard"
   },
   {
-    "emoji": "🖱️",
+    "emoji": "🖱",
     "names": [
       "computer_mouse",
       "mouse_three_button",
@@ -6944,7 +6944,7 @@
     "slug": "computer-mouse"
   },
   {
-    "emoji": "🖲️",
+    "emoji": "🖲",
     "names": [
       "trackball"
     ],
@@ -7003,7 +7003,7 @@
     "slug": "movie-camera"
   },
   {
-    "emoji": "🎞️",
+    "emoji": "🎞",
     "names": [
       "film_frames",
       "film_strip"
@@ -7012,7 +7012,7 @@
     "slug": "film-frames"
   },
   {
-    "emoji": "📽️",
+    "emoji": "📽",
     "names": [
       "film_projector",
       "projector"
@@ -7101,7 +7101,7 @@
     "slug": "magnifying-glass-tilted-right"
   },
   {
-    "emoji": "🕯️",
+    "emoji": "🕯",
     "names": [
       "candle"
     ],
@@ -7259,7 +7259,7 @@
     "slug": "newspaper"
   },
   {
-    "emoji": "🗞️",
+    "emoji": "🗞",
     "names": [
       "newspaper2",
       "newspaper_delivery",
@@ -7288,7 +7288,7 @@
     "slug": "bookmark"
   },
   {
-    "emoji": "🏷️",
+    "emoji": "🏷",
     "names": [
       "label"
     ],
@@ -7384,7 +7384,7 @@
     "slug": "chart-increasing-with-yen"
   },
   {
-    "emoji": "✉️",
+    "emoji": "✉",
     "names": [
       "email",
       "envelope",
@@ -7495,7 +7495,7 @@
     "slug": "postbox"
   },
   {
-    "emoji": "🗳️",
+    "emoji": "🗳",
     "names": [
       "ballot_box",
       "ballot_box_with_ballot",
@@ -7506,7 +7506,7 @@
     "slug": "ballot-box-with-ballot"
   },
   {
-    "emoji": "✏️",
+    "emoji": "✏",
     "names": [
       "lead_pencil",
       "pencil",
@@ -7516,7 +7516,7 @@
     "slug": "pencil"
   },
   {
-    "emoji": "✒️",
+    "emoji": "✒",
     "names": [
       "black_nib",
       "pen_nib"
@@ -7525,7 +7525,7 @@
     "slug": "black-nib"
   },
   {
-    "emoji": "🖋️",
+    "emoji": "🖋",
     "names": [
       "fountain_pen",
       "lower_left_fountain_pen",
@@ -7535,7 +7535,7 @@
     "slug": "fountain-pen"
   },
   {
-    "emoji": "🖊️",
+    "emoji": "🖊",
     "names": [
       "lower_left_ballpoint_pen",
       "pen",
@@ -7545,7 +7545,7 @@
     "slug": "pen"
   },
   {
-    "emoji": "🖌️",
+    "emoji": "🖌",
     "names": [
       "brush",
       "lower_left_paintbrush",
@@ -7555,7 +7555,7 @@
     "slug": "paintbrush"
   },
   {
-    "emoji": "🖍️",
+    "emoji": "🖍",
     "names": [
       "crayon",
       "lower_left_crayon"
@@ -7603,7 +7603,7 @@
     "slug": "open-file-folder"
   },
   {
-    "emoji": "🗂️",
+    "emoji": "🗂",
     "names": [
       "card_index_dividers",
       "dividers"
@@ -7633,7 +7633,7 @@
     "slug": "tear-off-calendar"
   },
   {
-    "emoji": "🗒️",
+    "emoji": "🗒",
     "names": [
       "notepad_spiral",
       "spiral_note_pad",
@@ -7643,7 +7643,7 @@
     "slug": "spiral-notepad"
   },
   {
-    "emoji": "🗓️",
+    "emoji": "🗓",
     "names": [
       "calendar_spiral",
       "spiral_calendar",
@@ -7733,7 +7733,7 @@
     "slug": "paperclip"
   },
   {
-    "emoji": "🖇️",
+    "emoji": "🖇",
     "names": [
       "linked_paperclips",
       "paperclips"
@@ -7759,7 +7759,7 @@
     "slug": "triangular-ruler"
   },
   {
-    "emoji": "✂️",
+    "emoji": "✂",
     "names": [
       "cutting",
       "scissors"
@@ -7768,7 +7768,7 @@
     "slug": "scissors"
   },
   {
-    "emoji": "🗃️",
+    "emoji": "🗃",
     "names": [
       "card_box",
       "card_file_box"
@@ -7777,7 +7777,7 @@
     "slug": "card-file-box"
   },
   {
-    "emoji": "🗄️",
+    "emoji": "🗄",
     "names": [
       "file_cabinet",
       "filing_cabinet"
@@ -7786,7 +7786,7 @@
     "slug": "file-cabinet"
   },
   {
-    "emoji": "🗑️",
+    "emoji": "🗑",
     "names": [
       "garbage_can",
       "rubbish_bin",
@@ -7849,7 +7849,7 @@
     "slug": "key"
   },
   {
-    "emoji": "🗝️",
+    "emoji": "🗝",
     "names": [
       "key2",
       "old_key"
@@ -7869,7 +7869,7 @@
     "slug": "hammer"
   },
   {
-    "emoji": "⛏️",
+    "emoji": "⛏",
     "names": [
       "pick",
       "pickaxe"
@@ -7878,7 +7878,7 @@
     "slug": "pick"
   },
   {
-    "emoji": "⚒️",
+    "emoji": "⚒",
     "names": [
       "hammer_and_pick",
       "hammer_pick"
@@ -7887,7 +7887,7 @@
     "slug": "hammer-and-pick"
   },
   {
-    "emoji": "🛠️",
+    "emoji": "🛠",
     "names": [
       "hammer_and_wrench",
       "tools"
@@ -7896,7 +7896,7 @@
     "slug": "hammer-and-wrench"
   },
   {
-    "emoji": "🗡️",
+    "emoji": "🗡",
     "names": [
       "dagger",
       "dagger_knife",
@@ -7906,7 +7906,7 @@
     "slug": "dagger"
   },
   {
-    "emoji": "⚔️",
+    "emoji": "⚔",
     "names": [
       "crossed_swords"
     ],
@@ -7930,7 +7930,7 @@
     "slug": "bow-and-arrow"
   },
   {
-    "emoji": "🛡️",
+    "emoji": "🛡",
     "names": [
       "shield"
     ],
@@ -7957,7 +7957,7 @@
     "slug": "nut-and-bolt"
   },
   {
-    "emoji": "⚙️",
+    "emoji": "⚙",
     "names": [
       "gear"
     ],
@@ -7965,7 +7965,7 @@
     "slug": "gear"
   },
   {
-    "emoji": "🗜️",
+    "emoji": "🗜",
     "names": [
       "clamp",
       "compression",
@@ -7976,7 +7976,7 @@
     "slug": "clamp"
   },
   {
-    "emoji": "⚖️",
+    "emoji": "⚖",
     "names": [
       "balance_scale",
       "scales",
@@ -7997,7 +7997,7 @@
     "slug": "link"
   },
   {
-    "emoji": "⛓️",
+    "emoji": "⛓",
     "names": [
       "chains"
     ],
@@ -8005,7 +8005,7 @@
     "slug": "chains"
   },
   {
-    "emoji": "⚗️",
+    "emoji": "⚗",
     "names": [
       "alembic"
     ],
@@ -8070,7 +8070,7 @@
     "slug": "door"
   },
   {
-    "emoji": "🛏️",
+    "emoji": "🛏",
     "names": [
       "bed",
       "bedroom"
@@ -8079,7 +8079,7 @@
     "slug": "bed"
   },
   {
-    "emoji": "🛋️",
+    "emoji": "🛋",
     "names": [
       "couch",
       "couch_and_lamp",
@@ -8129,7 +8129,7 @@
     "slug": "cigarette"
   },
   {
-    "emoji": "⚰️",
+    "emoji": "⚰",
     "names": [
       "casket",
       "coffin",
@@ -8139,7 +8139,7 @@
     "slug": "coffin"
   },
   {
-    "emoji": "⚱️",
+    "emoji": "⚱",
     "names": [
       "funeral_urn",
       "urn"
@@ -8289,7 +8289,7 @@
     "slug": "left-luggage"
   },
   {
-    "emoji": "⚠️",
+    "emoji": "⚠",
     "names": [
       "alert_symbol",
       "warning"
@@ -8396,7 +8396,7 @@
     "slug": "no-one-under-eighteen"
   },
   {
-    "emoji": "☢️",
+    "emoji": "☢",
     "names": [
       "international_radiation_symbol",
       "nuclear",
@@ -8407,7 +8407,7 @@
     "slug": "radioactive"
   },
   {
-    "emoji": "☣️",
+    "emoji": "☣",
     "names": [
       "biohazard",
       "biohazard_sign"
@@ -8416,7 +8416,7 @@
     "slug": "biohazard"
   },
   {
-    "emoji": "⬆️",
+    "emoji": "⬆",
     "names": [
       "arrow_pointing_up",
       "arrow_up",
@@ -8426,7 +8426,7 @@
     "slug": "up-arrow"
   },
   {
-    "emoji": "↗️",
+    "emoji": "↗",
     "names": [
       "arrow_upper_right",
       "diagonal_up_right_arrow",
@@ -8436,7 +8436,7 @@
     "slug": "up-right-arrow"
   },
   {
-    "emoji": "➡️",
+    "emoji": "➡",
     "names": [
       "arrow_pointing_right",
       "arrow_right",
@@ -8446,7 +8446,7 @@
     "slug": "right-arrow"
   },
   {
-    "emoji": "↘️",
+    "emoji": "↘",
     "names": [
       "arrow_lower_right",
       "diagonal_down_right_arrow",
@@ -8456,7 +8456,7 @@
     "slug": "down-right-arrow"
   },
   {
-    "emoji": "⬇️",
+    "emoji": "⬇",
     "names": [
       "arrow_down",
       "arrow_pointing_down",
@@ -8466,7 +8466,7 @@
     "slug": "down-arrow"
   },
   {
-    "emoji": "↙️",
+    "emoji": "↙",
     "names": [
       "arrow_lower_left",
       "diagonal_down_left_arrow",
@@ -8476,7 +8476,7 @@
     "slug": "down-left-arrow"
   },
   {
-    "emoji": "⬅️",
+    "emoji": "⬅",
     "names": [
       "arrow_left",
       "arrow_pointing_left",
@@ -8486,7 +8486,7 @@
     "slug": "left-arrow"
   },
   {
-    "emoji": "↖️",
+    "emoji": "↖",
     "names": [
       "arrow_upper_left",
       "diagonal_up_left_arrow",
@@ -8496,7 +8496,7 @@
     "slug": "up-left-arrow"
   },
   {
-    "emoji": "↕️",
+    "emoji": "↕",
     "names": [
       "arrow_up_down",
       "up_down_arrow",
@@ -8506,7 +8506,7 @@
     "slug": "up-down-arrow"
   },
   {
-    "emoji": "↔️",
+    "emoji": "↔",
     "names": [
       "horizontal_arrows",
       "left_right_arrow",
@@ -8516,7 +8516,7 @@
     "slug": "left-right-arrow"
   },
   {
-    "emoji": "↩️",
+    "emoji": "↩",
     "names": [
       "email_reply",
       "left_curved_arrow",
@@ -8527,7 +8527,7 @@
     "slug": "right-arrow-curving-left"
   },
   {
-    "emoji": "↪️",
+    "emoji": "↪",
     "names": [
       "arrow_right_hook",
       "email_forward",
@@ -8538,7 +8538,7 @@
     "slug": "left-arrow-curving-right"
   },
   {
-    "emoji": "⤴️",
+    "emoji": "⤴",
     "names": [
       "arrow_heading_up",
       "right_arrow_curving_up"
@@ -8547,7 +8547,7 @@
     "slug": "right-arrow-curving-up"
   },
   {
-    "emoji": "⤵️",
+    "emoji": "⤵",
     "names": [
       "arrow_heading_down",
       "curved_down_arrow",
@@ -8633,7 +8633,7 @@
     "slug": "place-of-worship"
   },
   {
-    "emoji": "⚛️",
+    "emoji": "⚛",
     "names": [
       "atom",
       "atom_symbol"
@@ -8642,7 +8642,7 @@
     "slug": "atom-symbol"
   },
   {
-    "emoji": "🕉️",
+    "emoji": "🕉",
     "names": [
       "aumkara",
       "om",
@@ -8654,7 +8654,7 @@
     "slug": "om"
   },
   {
-    "emoji": "✡️",
+    "emoji": "✡",
     "names": [
       "magen_david",
       "star_of_david"
@@ -8663,7 +8663,7 @@
     "slug": "star-of-david"
   },
   {
-    "emoji": "☸️",
+    "emoji": "☸",
     "names": [
       "helm",
       "wheel_of_dharma"
@@ -8672,7 +8672,7 @@
     "slug": "wheel-of-dharma"
   },
   {
-    "emoji": "☯️",
+    "emoji": "☯",
     "names": [
       "yin_yang"
     ],
@@ -8680,7 +8680,7 @@
     "slug": "yin-yang"
   },
   {
-    "emoji": "✝️",
+    "emoji": "✝",
     "names": [
       "christian_cross",
       "latin_cross"
@@ -8689,7 +8689,7 @@
     "slug": "latin-cross"
   },
   {
-    "emoji": "☦️",
+    "emoji": "☦",
     "names": [
       "orthodox_cross"
     ],
@@ -8697,7 +8697,7 @@
     "slug": "orthodox-cross"
   },
   {
-    "emoji": "☪️",
+    "emoji": "☪",
     "names": [
       "star_and_crescent"
     ],
@@ -8705,7 +8705,7 @@
     "slug": "star-and-crescent"
   },
   {
-    "emoji": "☮️",
+    "emoji": "☮",
     "names": [
       "peace_symbol"
     ],
@@ -8870,7 +8870,7 @@
     "slug": "repeat-single-button"
   },
   {
-    "emoji": "▶️",
+    "emoji": "▶",
     "names": [
       "arrow_forward",
       "play_button",
@@ -8889,7 +8889,7 @@
     "slug": "fast-forward-button"
   },
   {
-    "emoji": "⏭️",
+    "emoji": "⏭",
     "names": [
       "black_right_pointing_double_triangle_with_vertical_bar",
       "next_track",
@@ -8900,7 +8900,7 @@
     "slug": "next-track-button"
   },
   {
-    "emoji": "⏯️",
+    "emoji": "⏯",
     "names": [
       "black_right_pointing_triangle_with_double_vertical_bar",
       "play_or_pause_button",
@@ -8910,7 +8910,7 @@
     "slug": "play-or-pause-button"
   },
   {
-    "emoji": "◀️",
+    "emoji": "◀",
     "names": [
       "arrow_backward",
       "left_triangle",
@@ -8929,7 +8929,7 @@
     "slug": "fast-reverse-button"
   },
   {
-    "emoji": "⏮️",
+    "emoji": "⏮",
     "names": [
       "black_left_pointing_double_triangle_with_vertical_bar",
       "last_track_button",
@@ -8979,7 +8979,7 @@
     "slug": "fast-down-button"
   },
   {
-    "emoji": "⏸️",
+    "emoji": "⏸",
     "names": [
       "double_vertical_bar",
       "pause",
@@ -8989,7 +8989,7 @@
     "slug": "pause-button"
   },
   {
-    "emoji": "⏹️",
+    "emoji": "⏹",
     "names": [
       "black_square_for_stop",
       "stop_button"
@@ -8998,7 +8998,7 @@
     "slug": "stop-button"
   },
   {
-    "emoji": "⏺️",
+    "emoji": "⏺",
     "names": [
       "black_circle_for_record",
       "record",
@@ -9008,7 +9008,7 @@
     "slug": "record-button"
   },
   {
-    "emoji": "⏏️",
+    "emoji": "⏏",
     "names": [
       "eject",
       "eject_button",
@@ -9077,7 +9077,7 @@
     "slug": "mobile-phone-off"
   },
   {
-    "emoji": "✖️",
+    "emoji": "✖",
     "names": [
       "heavy_multiplication_x",
       "multiply"
@@ -9113,7 +9113,7 @@
     "slug": "divide"
   },
   {
-    "emoji": "‼️",
+    "emoji": "‼",
     "names": [
       "bangbang",
       "double_exclamation_mark"
@@ -9122,7 +9122,7 @@
     "slug": "double-exclamation-mark"
   },
   {
-    "emoji": "⁉️",
+    "emoji": "⁉",
     "names": [
       "exclamation_question_mark",
       "interrobang"
@@ -9168,7 +9168,7 @@
     "slug": "exclamation-mark"
   },
   {
-    "emoji": "〰️",
+    "emoji": "〰",
     "names": [
       "wavy_dash"
     ],
@@ -9193,7 +9193,7 @@
     "slug": "heavy-dollar-sign"
   },
   {
-    "emoji": "♻️",
+    "emoji": "♻",
     "names": [
       "recycle",
       "recycle_logo",
@@ -9203,7 +9203,7 @@
     "slug": "recycling-symbol"
   },
   {
-    "emoji": "⚜️",
+    "emoji": "⚜",
     "names": [
       "fleur_de_lis",
       "new_orleans_saints",
@@ -9268,7 +9268,7 @@
     "slug": "check-mark-button"
   },
   {
-    "emoji": "☑️",
+    "emoji": "☑",
     "names": [
       "ballot_box_with_check",
       "check_box_with_check",
@@ -9279,7 +9279,7 @@
     "slug": "check-box-with-check"
   },
   {
-    "emoji": "✔️",
+    "emoji": "✔",
     "names": [
       "check",
       "check_mark",
@@ -9328,7 +9328,7 @@
     "slug": "double-curly-loop"
   },
   {
-    "emoji": "〽️",
+    "emoji": "〽",
     "names": [
       "m",
       "mcdonalds",
@@ -9338,7 +9338,7 @@
     "slug": "part-alternation-mark"
   },
   {
-    "emoji": "✳️",
+    "emoji": "✳",
     "names": [
       "eight_spoked_asterisk"
     ],
@@ -9346,7 +9346,7 @@
     "slug": "eight-spoked-asterisk"
   },
   {
-    "emoji": "✴️",
+    "emoji": "✴",
     "names": [
       "eight_pointed_black_star",
       "eight_pointed_star",
@@ -9356,7 +9356,7 @@
     "slug": "eight-pointed-star"
   },
   {
-    "emoji": "❇️",
+    "emoji": "❇",
     "names": [
       "sparkle"
     ],
@@ -9364,7 +9364,7 @@
     "slug": "sparkle"
   },
   {
-    "emoji": "©️",
+    "emoji": "©",
     "names": [
       "copyright"
     ],
@@ -9372,7 +9372,7 @@
     "slug": "copyright"
   },
   {
-    "emoji": "®️",
+    "emoji": "®",
     "names": [
       "registered"
     ],
@@ -9380,7 +9380,7 @@
     "slug": "registered"
   },
   {
-    "emoji": "™️",
+    "emoji": "™",
     "names": [
       "tm",
       "trade_mark"
@@ -9451,7 +9451,7 @@
     "slug": "input-latin-letters"
   },
   {
-    "emoji": "🅰️",
+    "emoji": "🅰",
     "names": [
       "a",
       "a_button_blood_type_",
@@ -9471,7 +9471,7 @@
     "slug": "ab-button-blood-type"
   },
   {
-    "emoji": "🅱️",
+    "emoji": "🅱",
     "names": [
       "b",
       "b_button_blood_type_",
@@ -9510,7 +9510,7 @@
     "slug": "free-button"
   },
   {
-    "emoji": "ℹ️",
+    "emoji": "ℹ",
     "names": [
       "info",
       "information",
@@ -9532,7 +9532,7 @@
     "slug": "id-button"
   },
   {
-    "emoji": "Ⓜ️",
+    "emoji": "Ⓜ",
     "names": [
       "circled_m"
     ],
@@ -9559,7 +9559,7 @@
     "slug": "ng-button"
   },
   {
-    "emoji": "🅾️",
+    "emoji": "🅾",
     "names": [
       "blood_type_o",
       "o2",
@@ -9579,7 +9579,7 @@
     "slug": "ok-button"
   },
   {
-    "emoji": "🅿️",
+    "emoji": "🅿",
     "names": [
       "p_button",
       "parking"
@@ -9629,7 +9629,7 @@
     "slug": "japanese-here-button"
   },
   {
-    "emoji": "🈂️",
+    "emoji": "🈂",
     "names": [
       "japanese_service_charge_button",
       "sa"
@@ -9638,7 +9638,7 @@
     "slug": "japanese-service-charge-button"
   },
   {
-    "emoji": "🈷️",
+    "emoji": "🈷",
     "names": [
       "japanese_monthly_amount_button",
       "radical_74"
@@ -9739,7 +9739,7 @@
     "slug": "japanese-vacancy-button"
   },
   {
-    "emoji": "㊗️",
+    "emoji": "㊗",
     "names": [
       "congratulations",
       "japanese_congratulations_button"
@@ -9748,7 +9748,7 @@
     "slug": "japanese-congratulations-button"
   },
   {
-    "emoji": "㊙️",
+    "emoji": "㊙",
     "names": [
       "japanese_secret_button"
     ],
@@ -9821,7 +9821,7 @@
     "slug": "white-large-square"
   },
   {
-    "emoji": "◼️",
+    "emoji": "◼",
     "names": [
       "black_medium_square"
     ],
@@ -9829,7 +9829,7 @@
     "slug": "black-medium-square"
   },
   {
-    "emoji": "◻️",
+    "emoji": "◻",
     "names": [
       "white_medium_square"
     ],
@@ -9853,7 +9853,7 @@
     "slug": "white-medium-small-square"
   },
   {
-    "emoji": "▪️",
+    "emoji": "▪",
     "names": [
       "black_small_square"
     ],
@@ -9861,7 +9861,7 @@
     "slug": "black-small-square"
   },
   {
-    "emoji": "▫️",
+    "emoji": "▫",
     "names": [
       "white_small_square"
     ],
@@ -9996,7 +9996,7 @@
     "slug": "black-flag"
   },
   {
-    "emoji": "🏳️",
+    "emoji": "🏳",
     "names": [
       "flag_white",
       "waving_white_flag",
@@ -12842,7 +12842,7 @@
     "slug": "eye-in-speech-bubble"
   },
   {
-    "emoji": "🗨️",
+    "emoji": "🗨",
     "names": [
       "left_speech_bubble",
       "speech_left"
@@ -23820,7 +23820,7 @@
     "slug": "family-woman-girl-girl"
   },
   {
-    "emoji": "♀️",
+    "emoji": "♀",
     "names": [
       "female_sign",
       "venus_symbol",
@@ -23830,7 +23830,7 @@
     "slug": "female-sign"
   },
   {
-    "emoji": "♂️",
+    "emoji": "♂",
     "names": [
       "male_sign",
       "man_symbol",
@@ -23840,7 +23840,7 @@
     "slug": "male-sign"
   },
   {
-    "emoji": "⚕️",
+    "emoji": "⚕",
     "names": [
       "aesculapius",
       "asklepios",
@@ -27366,7 +27366,7 @@
     "slug": "teddy-bear"
   },
   {
-    "emoji": "♟️",
+    "emoji": "♟",
     "names": [
       "chess_pawn"
     ],
@@ -27556,7 +27556,7 @@
     "slug": "nazar-amulet"
   },
   {
-    "emoji": "♾️",
+    "emoji": "♾",
     "names": [
       "infinity"
     ],
