@@ -167,7 +167,7 @@
       "smiling",
       "smiling_face"
     ],
-    "codepoint": "263a-fe0f",
+    "codepoint": "263a",
     "slug": "smiling-face"
   },
   {
@@ -516,7 +516,7 @@
       "megafrown",
       "white_frowning_face"
     ],
-    "codepoint": "2639-fe0f",
+    "codepoint": "2639",
     "slug": "frowning-face"
   },
   {
@@ -789,7 +789,7 @@
       "skull_and_crossbones",
       "skull_crossbones"
     ],
-    "codepoint": "2620-fe0f",
+    "codepoint": "2620",
     "slug": "skull-and-crossbones"
   },
   {
@@ -1090,7 +1090,7 @@
       "heavy_heart_exclamation",
       "heavy_heart_exclamation_mark_ornament"
     ],
-    "codepoint": "2763-fe0f",
+    "codepoint": "2763",
     "slug": "heart-exclamation"
   },
   {
@@ -1111,7 +1111,7 @@
       "love_heart",
       "red_heart"
     ],
-    "codepoint": "2764-fe0f",
+    "codepoint": "2764",
     "slug": "red-heart"
   },
   {
@@ -1235,7 +1235,7 @@
     "names": [
       "hole"
     ],
-    "codepoint": "1f573-fe0f",
+    "codepoint": "1f573",
     "slug": "hole"
   },
   {
@@ -1255,7 +1255,7 @@
       "right_anger_bubble",
       "zig_zag_bubble"
     ],
-    "codepoint": "1f5ef-fe0f",
+    "codepoint": "1f5ef",
     "slug": "right-anger-bubble"
   },
   {
@@ -1301,7 +1301,7 @@
       "raised_hand_with_fingers_splayed",
       "splayed_hand"
     ],
-    "codepoint": "1f590-fe0f",
+    "codepoint": "1f590",
     "slug": "hand-with-fingers-splayed"
   },
   {
@@ -1348,7 +1348,7 @@
       "v_sign",
       "victory_hand"
     ],
-    "codepoint": "270c-fe0f",
+    "codepoint": "270c",
     "slug": "victory-hand"
   },
   {
@@ -1424,7 +1424,7 @@
       "point_up",
       "secret"
     ],
-    "codepoint": "261d-fe0f",
+    "codepoint": "261d",
     "slug": "index-pointing-up"
   },
   {
@@ -1531,7 +1531,7 @@
     "names": [
       "writing_hand"
     ],
-    "codepoint": "270d-fe0f",
+    "codepoint": "270d",
     "slug": "writing-hand"
   },
   {
@@ -1597,7 +1597,7 @@
       "eye",
       "single_eye"
     ],
-    "codepoint": "1f441-fe0f",
+    "codepoint": "1f441",
     "slug": "eye"
   },
   {
@@ -1802,7 +1802,7 @@
       "sleuth_or_spy",
       "spy"
     ],
-    "codepoint": "1f575-fe0f",
+    "codepoint": "1f575",
     "slug": "detective"
   },
   {
@@ -1959,7 +1959,7 @@
       "rude_boy",
       "walt_jabsco"
     ],
-    "codepoint": "1f574-fe0f",
+    "codepoint": "1f574",
     "slug": "person-in-suit-levitating"
   },
   {
@@ -1991,7 +1991,7 @@
     "names": [
       "skier"
     ],
-    "codepoint": "26f7-fe0f",
+    "codepoint": "26f7",
     "slug": "skier"
   },
   {
@@ -2013,7 +2013,7 @@
       "golfing",
       "person_golfing"
     ],
-    "codepoint": "1f3cc-fe0f",
+    "codepoint": "1f3cc",
     "slug": "person-golfing"
   },
   {
@@ -2056,7 +2056,7 @@
       "person_bouncing_ball",
       "person_with_ball"
     ],
-    "codepoint": "26f9-fe0f",
+    "codepoint": "26f9",
     "slug": "person-bouncing-ball"
   },
   {
@@ -2068,7 +2068,7 @@
       "weight_lifter",
       "weight_lifting"
     ],
-    "codepoint": "1f3cb-fe0f",
+    "codepoint": "1f3cb",
     "slug": "person-lifting-weights"
   },
   {
@@ -2177,7 +2177,7 @@
       "speaking_head",
       "speaking_head_in_silhouette"
     ],
-    "codepoint": "1f5e3-fe0f",
+    "codepoint": "1f5e3",
     "slug": "speaking-head"
   },
   {
@@ -2565,7 +2565,7 @@
       "chipmunk",
       "squirrel"
     ],
-    "codepoint": "1f43f-fe0f",
+    "codepoint": "1f43f",
     "slug": "chipmunk"
   },
   {
@@ -2685,7 +2685,7 @@
       "dove",
       "dove_of_peace"
     ],
-    "codepoint": "1f54a-fe0f",
+    "codepoint": "1f54a",
     "slug": "dove"
   },
   {
@@ -2870,7 +2870,7 @@
     "names": [
       "spider"
     ],
-    "codepoint": "1f577-fe0f",
+    "codepoint": "1f577",
     "slug": "spider"
   },
   {
@@ -2880,7 +2880,7 @@
       "spider_web",
       "web"
     ],
-    "codepoint": "1f578-fe0f",
+    "codepoint": "1f578",
     "slug": "spider-web"
   },
   {
@@ -2925,7 +2925,7 @@
     "names": [
       "rosette"
     ],
-    "codepoint": "1f3f5-fe0f",
+    "codepoint": "1f3f5",
     "slug": "rosette"
   },
   {
@@ -3049,7 +3049,7 @@
       "shamrock",
       "trefoil"
     ],
-    "codepoint": "2618-fe0f",
+    "codepoint": "2618",
     "slug": "shamrock"
   },
   {
@@ -3260,7 +3260,7 @@
       "hot_pepper",
       "spicy"
     ],
-    "codepoint": "1f336-fe0f",
+    "codepoint": "1f336",
     "slug": "hot-pepper"
   },
   {
@@ -3774,7 +3774,7 @@
       "knife_fork_plate",
       "plate_with_cutlery"
     ],
-    "codepoint": "1f37d-fe0f",
+    "codepoint": "1f37d",
     "slug": "fork-and-knife-with-plate"
   },
   {
@@ -3856,7 +3856,7 @@
       "map",
       "world_map"
     ],
-    "codepoint": "1f5fa-fe0f",
+    "codepoint": "1f5fa",
     "slug": "world-map"
   },
   {
@@ -3874,7 +3874,7 @@
       "mountain_snow",
       "snow_capped_mountain"
     ],
-    "codepoint": "1f3d4-fe0f",
+    "codepoint": "1f3d4",
     "slug": "snow-capped-mountain"
   },
   {
@@ -3882,7 +3882,7 @@
     "names": [
       "mountain"
     ],
-    "codepoint": "26f0-fe0f",
+    "codepoint": "26f0",
     "slug": "mountain"
   },
   {
@@ -3908,7 +3908,7 @@
       "camping",
       "campsite"
     ],
-    "codepoint": "1f3d5-fe0f",
+    "codepoint": "1f3d5",
     "slug": "camping"
   },
   {
@@ -3917,7 +3917,7 @@
       "beach_umbrella",
       "beach_with_umbrella"
     ],
-    "codepoint": "1f3d6-fe0f",
+    "codepoint": "1f3d6",
     "slug": "beach-with-umbrella"
   },
   {
@@ -3925,7 +3925,7 @@
     "names": [
       "desert"
     ],
-    "codepoint": "1f3dc-fe0f",
+    "codepoint": "1f3dc",
     "slug": "desert"
   },
   {
@@ -3934,7 +3934,7 @@
       "desert_island",
       "island"
     ],
-    "codepoint": "1f3dd-fe0f",
+    "codepoint": "1f3dd",
     "slug": "desert-island"
   },
   {
@@ -3943,7 +3943,7 @@
       "national_park",
       "park"
     ],
-    "codepoint": "1f3de-fe0f",
+    "codepoint": "1f3de",
     "slug": "national-park"
   },
   {
@@ -3953,7 +3953,7 @@
       "sport_stadium",
       "stadium"
     ],
-    "codepoint": "1f3df-fe0f",
+    "codepoint": "1f3df",
     "slug": "stadium"
   },
   {
@@ -3961,7 +3961,7 @@
     "names": [
       "classical_building"
     ],
-    "codepoint": "1f3db-fe0f",
+    "codepoint": "1f3db",
     "slug": "classical-building"
   },
   {
@@ -3971,7 +3971,7 @@
       "construction_site",
       "crane"
     ],
-    "codepoint": "1f3d7-fe0f",
+    "codepoint": "1f3d7",
     "slug": "building-construction"
   },
   {
@@ -3981,7 +3981,7 @@
       "house_buildings",
       "houses"
     ],
-    "codepoint": "1f3d8-fe0f",
+    "codepoint": "1f3d8",
     "slug": "houses"
   },
   {
@@ -3994,7 +3994,7 @@
       "house_abandoned",
       "old_house"
     ],
-    "codepoint": "1f3da-fe0f",
+    "codepoint": "1f3da",
     "slug": "derelict-house"
   },
   {
@@ -4219,7 +4219,7 @@
       "kami_no_michi",
       "shinto_shrine"
     ],
-    "codepoint": "26e9-fe0f",
+    "codepoint": "26e9",
     "slug": "shinto-shrine"
   },
   {
@@ -4275,7 +4275,7 @@
     "names": [
       "cityscape"
     ],
-    "codepoint": "1f3d9-fe0f",
+    "codepoint": "1f3d9",
     "slug": "cityscape"
   },
   {
@@ -4333,7 +4333,7 @@
       "hotsprings",
       "onsen"
     ],
-    "codepoint": "2668-fe0f",
+    "codepoint": "2668",
     "slug": "hot-springs"
   },
   {
@@ -4668,7 +4668,7 @@
       "race_car",
       "racing_car"
     ],
-    "codepoint": "1f3ce-fe0f",
+    "codepoint": "1f3ce",
     "slug": "racing-car"
   },
   {
@@ -4678,7 +4678,7 @@
       "motorcycle",
       "racing_motorcycle"
     ],
-    "codepoint": "1f3cd-fe0f",
+    "codepoint": "1f3cd",
     "slug": "motorcycle"
   },
   {
@@ -4707,7 +4707,7 @@
       "motorway",
       "road"
     ],
-    "codepoint": "1f6e3-fe0f",
+    "codepoint": "1f6e3",
     "slug": "motorway"
   },
   {
@@ -4716,7 +4716,7 @@
       "railroad_track",
       "railway_track"
     ],
-    "codepoint": "1f6e4-fe0f",
+    "codepoint": "1f6e4",
     "slug": "railway-track"
   },
   {
@@ -4725,7 +4725,7 @@
       "oil",
       "oil_drum"
     ],
-    "codepoint": "1f6e2-fe0f",
+    "codepoint": "1f6e2",
     "slug": "oil-drum"
   },
   {
@@ -4817,7 +4817,7 @@
       "cruise_ship",
       "passenger_ship"
     ],
-    "codepoint": "1f6f3-fe0f",
+    "codepoint": "1f6f3",
     "slug": "passenger-ship"
   },
   {
@@ -4825,7 +4825,7 @@
     "names": [
       "ferry"
     ],
-    "codepoint": "26f4-fe0f",
+    "codepoint": "26f4",
     "slug": "ferry"
   },
   {
@@ -4833,7 +4833,7 @@
     "names": [
       "motor_boat"
     ],
-    "codepoint": "1f6e5-fe0f",
+    "codepoint": "1f6e5",
     "slug": "motor-boat"
   },
   {
@@ -4852,7 +4852,7 @@
       "airplane",
       "plane"
     ],
-    "codepoint": "2708-fe0f",
+    "codepoint": "2708",
     "slug": "airplane"
   },
   {
@@ -4863,7 +4863,7 @@
       "small_airplane",
       "small_plane"
     ],
-    "codepoint": "1f6e9-fe0f",
+    "codepoint": "1f6e9",
     "slug": "small-airplane"
   },
   {
@@ -4943,7 +4943,7 @@
       "satellite",
       "satellite_orbital"
     ],
-    "codepoint": "1f6f0-fe0f",
+    "codepoint": "1f6f0",
     "slug": "satellite"
   },
   {
@@ -4961,7 +4961,7 @@
     "names": [
       "bellhop_bell"
     ],
-    "codepoint": "1f6ce-fe0f",
+    "codepoint": "1f6ce",
     "slug": "bellhop-bell"
   },
   {
@@ -5008,7 +5008,7 @@
     "names": [
       "stopwatch"
     ],
-    "codepoint": "23f1-fe0f",
+    "codepoint": "23f1",
     "slug": "stopwatch"
   },
   {
@@ -5017,7 +5017,7 @@
       "timer",
       "timer_clock"
     ],
-    "codepoint": "23f2-fe0f",
+    "codepoint": "23f2",
     "slug": "timer-clock"
   },
   {
@@ -5026,7 +5026,7 @@
       "mantelpiece_clock",
       "mantlepiece_clock"
     ],
-    "codepoint": "1f570-fe0f",
+    "codepoint": "1f570",
     "slug": "mantelpiece-clock"
   },
   {
@@ -5358,7 +5358,7 @@
       "temperature",
       "thermometer"
     ],
-    "codepoint": "1f321-fe0f",
+    "codepoint": "1f321",
     "slug": "thermometer"
   },
   {
@@ -5368,7 +5368,7 @@
       "sunny",
       "sunshine"
     ],
-    "codepoint": "2600-fe0f",
+    "codepoint": "2600",
     "slug": "sun"
   },
   {
@@ -5443,7 +5443,7 @@
       "cloudy",
       "overcast"
     ],
-    "codepoint": "2601-fe0f",
+    "codepoint": "2601",
     "slug": "cloud"
   },
   {
@@ -5462,7 +5462,7 @@
       "thunder_cloud_and_rain",
       "thunder_cloud_rain"
     ],
-    "codepoint": "26c8-fe0f",
+    "codepoint": "26c8",
     "slug": "cloud-with-lightning-and-rain"
   },
   {
@@ -5474,7 +5474,7 @@
       "white_sun_small_cloud",
       "white_sun_with_small_cloud"
     ],
-    "codepoint": "1f324-fe0f",
+    "codepoint": "1f324",
     "slug": "sun-behind-small-cloud"
   },
   {
@@ -5485,7 +5485,7 @@
       "white_sun_behind_cloud",
       "white_sun_cloud"
     ],
-    "codepoint": "1f325-fe0f",
+    "codepoint": "1f325",
     "slug": "sun-behind-large-cloud"
   },
   {
@@ -5496,7 +5496,7 @@
       "white_sun_behind_cloud_with_rain",
       "white_sun_rain_cloud"
     ],
-    "codepoint": "1f326-fe0f",
+    "codepoint": "1f326",
     "slug": "sun-behind-rain-cloud"
   },
   {
@@ -5506,7 +5506,7 @@
       "cloud_with_rain",
       "rain_cloud"
     ],
-    "codepoint": "1f327-fe0f",
+    "codepoint": "1f327",
     "slug": "cloud-with-rain"
   },
   {
@@ -5516,7 +5516,7 @@
       "cloud_with_snow",
       "snow_cloud"
     ],
-    "codepoint": "1f328-fe0f",
+    "codepoint": "1f328",
     "slug": "cloud-with-snow"
   },
   {
@@ -5527,7 +5527,7 @@
       "lightning",
       "lightning_cloud"
     ],
-    "codepoint": "1f329-fe0f",
+    "codepoint": "1f329",
     "slug": "cloud-with-lightning"
   },
   {
@@ -5538,7 +5538,7 @@
       "tornado",
       "tornado_cloud"
     ],
-    "codepoint": "1f32a-fe0f",
+    "codepoint": "1f32a",
     "slug": "tornado"
   },
   {
@@ -5546,7 +5546,7 @@
     "names": [
       "fog"
     ],
-    "codepoint": "1f32b-fe0f",
+    "codepoint": "1f32b",
     "slug": "fog"
   },
   {
@@ -5557,7 +5557,7 @@
       "wind_blowing_face",
       "wind_face"
     ],
-    "codepoint": "1f32c-fe0f",
+    "codepoint": "1f32c",
     "slug": "wind-face"
   },
   {
@@ -5598,7 +5598,7 @@
       "umbrella",
       "umbrella2"
     ],
-    "codepoint": "2602-fe0f",
+    "codepoint": "2602",
     "slug": "umbrella"
   },
   {
@@ -5617,7 +5617,7 @@
       "parasol_on_ground",
       "umbrella_on_ground"
     ],
-    "codepoint": "26f1-fe0f",
+    "codepoint": "26f1",
     "slug": "umbrella-on-ground"
   },
   {
@@ -5638,7 +5638,7 @@
       "snowflake",
       "snowing"
     ],
-    "codepoint": "2744-fe0f",
+    "codepoint": "2744",
     "slug": "snowflake"
   },
   {
@@ -5649,7 +5649,7 @@
       "snowman2",
       "snowman_with_snow"
     ],
-    "codepoint": "2603-fe0f",
+    "codepoint": "2603",
     "slug": "snowman"
   },
   {
@@ -5667,7 +5667,7 @@
     "names": [
       "comet"
     ],
-    "codepoint": "2604-fe0f",
+    "codepoint": "2604",
     "slug": "comet"
   },
   {
@@ -5873,7 +5873,7 @@
     "names": [
       "reminder_ribbon"
     ],
-    "codepoint": "1f397-fe0f",
+    "codepoint": "1f397",
     "slug": "reminder-ribbon"
   },
   {
@@ -5882,7 +5882,7 @@
       "admission_tickets",
       "tickets"
     ],
-    "codepoint": "1f39f-fe0f",
+    "codepoint": "1f39f",
     "slug": "admission-tickets"
   },
   {
@@ -5904,7 +5904,7 @@
       "military_decoration",
       "military_medal"
     ],
-    "codepoint": "1f396-fe0f",
+    "codepoint": "1f396",
     "slug": "military-medal"
   },
   {
@@ -6068,7 +6068,7 @@
       "ice_skate",
       "ice_skating"
     ],
-    "codepoint": "26f8-fe0f",
+    "codepoint": "26f8",
     "slug": "ice-skate"
   },
   {
@@ -6170,7 +6170,7 @@
     "names": [
       "joystick"
     ],
-    "codepoint": "1f579-fe0f",
+    "codepoint": "1f579",
     "slug": "joystick"
   },
   {
@@ -6200,7 +6200,7 @@
       "spade_suit",
       "spades"
     ],
-    "codepoint": "2660-fe0f",
+    "codepoint": "2660",
     "slug": "spade-suit"
   },
   {
@@ -6210,7 +6210,7 @@
       "heart_suit",
       "hearts"
     ],
-    "codepoint": "2665-fe0f",
+    "codepoint": "2665",
     "slug": "heart-suit"
   },
   {
@@ -6219,7 +6219,7 @@
       "diamond_suit",
       "diamonds"
     ],
-    "codepoint": "2666-fe0f",
+    "codepoint": "2666",
     "slug": "diamond-suit"
   },
   {
@@ -6228,7 +6228,7 @@
       "club_suit",
       "clubs"
     ],
-    "codepoint": "2663-fe0f",
+    "codepoint": "2663",
     "slug": "club-suit"
   },
   {
@@ -6284,7 +6284,7 @@
       "painting",
       "picture_frame"
     ],
-    "codepoint": "1f5bc-fe0f",
+    "codepoint": "1f5bc",
     "slug": "framed-picture"
   },
   {
@@ -6311,7 +6311,7 @@
       "dark_sunglasses",
       "sunglasses"
     ],
-    "codepoint": "1f576-fe0f",
+    "codepoint": "1f576",
     "slug": "sunglasses"
   },
   {
@@ -6424,7 +6424,7 @@
       "shopping",
       "shopping_bags"
     ],
-    "codepoint": "1f6cd-fe0f",
+    "codepoint": "1f6cd",
     "slug": "shopping-bags"
   },
   {
@@ -6544,7 +6544,7 @@
       "rescue_worker_helmet",
       "rescue_workers_helmet"
     ],
-    "codepoint": "26d1-fe0f",
+    "codepoint": "26d1",
     "slug": "rescue-workers-helmet"
   },
   {
@@ -6718,7 +6718,7 @@
       "microphone2",
       "studio_microphone"
     ],
-    "codepoint": "1f399-fe0f",
+    "codepoint": "1f399",
     "slug": "studio-microphone"
   },
   {
@@ -6726,7 +6726,7 @@
     "names": [
       "level_slider"
     ],
-    "codepoint": "1f39a-fe0f",
+    "codepoint": "1f39a",
     "slug": "level-slider"
   },
   {
@@ -6734,7 +6734,7 @@
     "names": [
       "control_knobs"
     ],
-    "codepoint": "1f39b-fe0f",
+    "codepoint": "1f39b",
     "slug": "control-knobs"
   },
   {
@@ -6845,7 +6845,7 @@
       "rotary_phone",
       "telephone"
     ],
-    "codepoint": "260e-fe0f",
+    "codepoint": "260e",
     "slug": "telephone"
   },
   {
@@ -6914,7 +6914,7 @@
       "desktop_computer",
       "imac"
     ],
-    "codepoint": "1f5a5-fe0f",
+    "codepoint": "1f5a5",
     "slug": "desktop-computer"
   },
   {
@@ -6922,7 +6922,7 @@
     "names": [
       "printer"
     ],
-    "codepoint": "1f5a8-fe0f",
+    "codepoint": "1f5a8",
     "slug": "printer"
   },
   {
@@ -6930,7 +6930,7 @@
     "names": [
       "keyboard"
     ],
-    "codepoint": "2328-fe0f",
+    "codepoint": "2328",
     "slug": "keyboard"
   },
   {
@@ -6940,7 +6940,7 @@
       "mouse_three_button",
       "three_button_mouse"
     ],
-    "codepoint": "1f5b1-fe0f",
+    "codepoint": "1f5b1",
     "slug": "computer-mouse"
   },
   {
@@ -6948,7 +6948,7 @@
     "names": [
       "trackball"
     ],
-    "codepoint": "1f5b2-fe0f",
+    "codepoint": "1f5b2",
     "slug": "trackball"
   },
   {
@@ -7008,7 +7008,7 @@
       "film_frames",
       "film_strip"
     ],
-    "codepoint": "1f39e-fe0f",
+    "codepoint": "1f39e",
     "slug": "film-frames"
   },
   {
@@ -7017,7 +7017,7 @@
       "film_projector",
       "projector"
     ],
-    "codepoint": "1f4fd-fe0f",
+    "codepoint": "1f4fd",
     "slug": "film-projector"
   },
   {
@@ -7105,7 +7105,7 @@
     "names": [
       "candle"
     ],
-    "codepoint": "1f56f-fe0f",
+    "codepoint": "1f56f",
     "slug": "candle"
   },
   {
@@ -7266,7 +7266,7 @@
       "newspaper_roll",
       "rolled_up_newspaper"
     ],
-    "codepoint": "1f5de-fe0f",
+    "codepoint": "1f5de",
     "slug": "rolled-up-newspaper"
   },
   {
@@ -7292,7 +7292,7 @@
     "names": [
       "label"
     ],
-    "codepoint": "1f3f7-fe0f",
+    "codepoint": "1f3f7",
     "slug": "label"
   },
   {
@@ -7390,7 +7390,7 @@
       "envelope",
       "letter"
     ],
-    "codepoint": "2709-fe0f",
+    "codepoint": "2709",
     "slug": "envelope"
   },
   {
@@ -7502,7 +7502,7 @@
       "vote_box",
       "voting"
     ],
-    "codepoint": "1f5f3-fe0f",
+    "codepoint": "1f5f3",
     "slug": "ballot-box-with-ballot"
   },
   {
@@ -7512,7 +7512,7 @@
       "pencil",
       "pencil2"
     ],
-    "codepoint": "270f-fe0f",
+    "codepoint": "270f",
     "slug": "pencil"
   },
   {
@@ -7521,7 +7521,7 @@
       "black_nib",
       "pen_nib"
     ],
-    "codepoint": "2712-fe0f",
+    "codepoint": "2712",
     "slug": "black-nib"
   },
   {
@@ -7531,7 +7531,7 @@
       "lower_left_fountain_pen",
       "pen_fountain"
     ],
-    "codepoint": "1f58b-fe0f",
+    "codepoint": "1f58b",
     "slug": "fountain-pen"
   },
   {
@@ -7541,7 +7541,7 @@
       "pen",
       "pen_ballpoint"
     ],
-    "codepoint": "1f58a-fe0f",
+    "codepoint": "1f58a",
     "slug": "pen"
   },
   {
@@ -7551,7 +7551,7 @@
       "lower_left_paintbrush",
       "paintbrush"
     ],
-    "codepoint": "1f58c-fe0f",
+    "codepoint": "1f58c",
     "slug": "paintbrush"
   },
   {
@@ -7560,7 +7560,7 @@
       "crayon",
       "lower_left_crayon"
     ],
-    "codepoint": "1f58d-fe0f",
+    "codepoint": "1f58d",
     "slug": "crayon"
   },
   {
@@ -7608,7 +7608,7 @@
       "card_index_dividers",
       "dividers"
     ],
-    "codepoint": "1f5c2-fe0f",
+    "codepoint": "1f5c2",
     "slug": "card-index-dividers"
   },
   {
@@ -7639,7 +7639,7 @@
       "spiral_note_pad",
       "spiral_notepad"
     ],
-    "codepoint": "1f5d2-fe0f",
+    "codepoint": "1f5d2",
     "slug": "spiral-notepad"
   },
   {
@@ -7649,7 +7649,7 @@
       "spiral_calendar",
       "spiral_calendar_pad"
     ],
-    "codepoint": "1f5d3-fe0f",
+    "codepoint": "1f5d3",
     "slug": "spiral-calendar"
   },
   {
@@ -7738,7 +7738,7 @@
       "linked_paperclips",
       "paperclips"
     ],
-    "codepoint": "1f587-fe0f",
+    "codepoint": "1f587",
     "slug": "linked-paperclips"
   },
   {
@@ -7764,7 +7764,7 @@
       "cutting",
       "scissors"
     ],
-    "codepoint": "2702-fe0f",
+    "codepoint": "2702",
     "slug": "scissors"
   },
   {
@@ -7773,7 +7773,7 @@
       "card_box",
       "card_file_box"
     ],
-    "codepoint": "1f5c3-fe0f",
+    "codepoint": "1f5c3",
     "slug": "card-file-box"
   },
   {
@@ -7782,7 +7782,7 @@
       "file_cabinet",
       "filing_cabinet"
     ],
-    "codepoint": "1f5c4-fe0f",
+    "codepoint": "1f5c4",
     "slug": "file-cabinet"
   },
   {
@@ -7794,7 +7794,7 @@
       "wastebasket",
       "wastepaper_basket"
     ],
-    "codepoint": "1f5d1-fe0f",
+    "codepoint": "1f5d1",
     "slug": "wastebasket"
   },
   {
@@ -7854,7 +7854,7 @@
       "key2",
       "old_key"
     ],
-    "codepoint": "1f5dd-fe0f",
+    "codepoint": "1f5dd",
     "slug": "old-key"
   },
   {
@@ -7874,7 +7874,7 @@
       "pick",
       "pickaxe"
     ],
-    "codepoint": "26cf-fe0f",
+    "codepoint": "26cf",
     "slug": "pick"
   },
   {
@@ -7883,7 +7883,7 @@
       "hammer_and_pick",
       "hammer_pick"
     ],
-    "codepoint": "2692-fe0f",
+    "codepoint": "2692",
     "slug": "hammer-and-pick"
   },
   {
@@ -7892,7 +7892,7 @@
       "hammer_and_wrench",
       "tools"
     ],
-    "codepoint": "1f6e0-fe0f",
+    "codepoint": "1f6e0",
     "slug": "hammer-and-wrench"
   },
   {
@@ -7902,7 +7902,7 @@
       "dagger_knife",
       "knife_weapon"
     ],
-    "codepoint": "1f5e1-fe0f",
+    "codepoint": "1f5e1",
     "slug": "dagger"
   },
   {
@@ -7910,7 +7910,7 @@
     "names": [
       "crossed_swords"
     ],
-    "codepoint": "2694-fe0f",
+    "codepoint": "2694",
     "slug": "crossed-swords"
   },
   {
@@ -7934,7 +7934,7 @@
     "names": [
       "shield"
     ],
-    "codepoint": "1f6e1-fe0f",
+    "codepoint": "1f6e1",
     "slug": "shield"
   },
   {
@@ -7961,7 +7961,7 @@
     "names": [
       "gear"
     ],
-    "codepoint": "2699-fe0f",
+    "codepoint": "2699",
     "slug": "gear"
   },
   {
@@ -7972,7 +7972,7 @@
       "table_vice",
       "winzip"
     ],
-    "codepoint": "1f5dc-fe0f",
+    "codepoint": "1f5dc",
     "slug": "clamp"
   },
   {
@@ -7982,7 +7982,7 @@
       "scales",
       "scales_of_justice"
     ],
-    "codepoint": "2696-fe0f",
+    "codepoint": "2696",
     "slug": "balance-scale"
   },
   {
@@ -8001,7 +8001,7 @@
     "names": [
       "chains"
     ],
-    "codepoint": "26d3-fe0f",
+    "codepoint": "26d3",
     "slug": "chains"
   },
   {
@@ -8009,7 +8009,7 @@
     "names": [
       "alembic"
     ],
-    "codepoint": "2697-fe0f",
+    "codepoint": "2697",
     "slug": "alembic"
   },
   {
@@ -8075,7 +8075,7 @@
       "bed",
       "bedroom"
     ],
-    "codepoint": "1f6cf-fe0f",
+    "codepoint": "1f6cf",
     "slug": "bed"
   },
   {
@@ -8087,7 +8087,7 @@
       "settee",
       "sofa"
     ],
-    "codepoint": "1f6cb-fe0f",
+    "codepoint": "1f6cb",
     "slug": "couch-and-lamp"
   },
   {
@@ -8135,7 +8135,7 @@
       "coffin",
       "funeral"
     ],
-    "codepoint": "26b0-fe0f",
+    "codepoint": "26b0",
     "slug": "coffin"
   },
   {
@@ -8144,7 +8144,7 @@
       "funeral_urn",
       "urn"
     ],
-    "codepoint": "26b1-fe0f",
+    "codepoint": "26b1",
     "slug": "funeral-urn"
   },
   {
@@ -8294,7 +8294,7 @@
       "alert_symbol",
       "warning"
     ],
-    "codepoint": "26a0-fe0f",
+    "codepoint": "26a0",
     "slug": "warning"
   },
   {
@@ -8403,7 +8403,7 @@
       "radioactive",
       "radioactive_sign"
     ],
-    "codepoint": "2622-fe0f",
+    "codepoint": "2622",
     "slug": "radioactive"
   },
   {
@@ -8412,7 +8412,7 @@
       "biohazard",
       "biohazard_sign"
     ],
-    "codepoint": "2623-fe0f",
+    "codepoint": "2623",
     "slug": "biohazard"
   },
   {
@@ -8422,7 +8422,7 @@
       "arrow_up",
       "up_arrow"
     ],
-    "codepoint": "2b06-fe0f",
+    "codepoint": "2b06",
     "slug": "up-arrow"
   },
   {
@@ -8432,7 +8432,7 @@
       "diagonal_up_right_arrow",
       "up_right_arrow"
     ],
-    "codepoint": "2197-fe0f",
+    "codepoint": "2197",
     "slug": "up-right-arrow"
   },
   {
@@ -8442,7 +8442,7 @@
       "arrow_right",
       "right_arrow"
     ],
-    "codepoint": "27a1-fe0f",
+    "codepoint": "27a1",
     "slug": "right-arrow"
   },
   {
@@ -8452,7 +8452,7 @@
       "diagonal_down_right_arrow",
       "down_right_arrow"
     ],
-    "codepoint": "2198-fe0f",
+    "codepoint": "2198",
     "slug": "down-right-arrow"
   },
   {
@@ -8462,7 +8462,7 @@
       "arrow_pointing_down",
       "down_arrow"
     ],
-    "codepoint": "2b07-fe0f",
+    "codepoint": "2b07",
     "slug": "down-arrow"
   },
   {
@@ -8472,7 +8472,7 @@
       "diagonal_down_left_arrow",
       "down_left_arrow"
     ],
-    "codepoint": "2199-fe0f",
+    "codepoint": "2199",
     "slug": "down-left-arrow"
   },
   {
@@ -8482,7 +8482,7 @@
       "arrow_pointing_left",
       "left_arrow"
     ],
-    "codepoint": "2b05-fe0f",
+    "codepoint": "2b05",
     "slug": "left-arrow"
   },
   {
@@ -8492,7 +8492,7 @@
       "diagonal_up_left_arrow",
       "up_left_arrow"
     ],
-    "codepoint": "2196-fe0f",
+    "codepoint": "2196",
     "slug": "up-left-arrow"
   },
   {
@@ -8502,7 +8502,7 @@
       "up_down_arrow",
       "vertical_arrows"
     ],
-    "codepoint": "2195-fe0f",
+    "codepoint": "2195",
     "slug": "up-down-arrow"
   },
   {
@@ -8512,7 +8512,7 @@
       "left_right_arrow",
       "sideways_arrows"
     ],
-    "codepoint": "2194-fe0f",
+    "codepoint": "2194",
     "slug": "left-right-arrow"
   },
   {
@@ -8523,7 +8523,7 @@
       "leftwards_arrow_with_hook",
       "right_arrow_curving_left"
     ],
-    "codepoint": "21a9-fe0f",
+    "codepoint": "21a9",
     "slug": "right-arrow-curving-left"
   },
   {
@@ -8534,7 +8534,7 @@
       "left_arrow_curving_right",
       "right_curved_arrow"
     ],
-    "codepoint": "21aa-fe0f",
+    "codepoint": "21aa",
     "slug": "left-arrow-curving-right"
   },
   {
@@ -8543,7 +8543,7 @@
       "arrow_heading_up",
       "right_arrow_curving_up"
     ],
-    "codepoint": "2934-fe0f",
+    "codepoint": "2934",
     "slug": "right-arrow-curving-up"
   },
   {
@@ -8553,7 +8553,7 @@
       "curved_down_arrow",
       "right_arrow_curving_down"
     ],
-    "codepoint": "2935-fe0f",
+    "codepoint": "2935",
     "slug": "right-arrow-curving-down"
   },
   {
@@ -8638,7 +8638,7 @@
       "atom",
       "atom_symbol"
     ],
-    "codepoint": "269b-fe0f",
+    "codepoint": "269b",
     "slug": "atom-symbol"
   },
   {
@@ -8650,7 +8650,7 @@
       "omkara",
       "pranava"
     ],
-    "codepoint": "1f549-fe0f",
+    "codepoint": "1f549",
     "slug": "om"
   },
   {
@@ -8659,7 +8659,7 @@
       "magen_david",
       "star_of_david"
     ],
-    "codepoint": "2721-fe0f",
+    "codepoint": "2721",
     "slug": "star-of-david"
   },
   {
@@ -8668,7 +8668,7 @@
       "helm",
       "wheel_of_dharma"
     ],
-    "codepoint": "2638-fe0f",
+    "codepoint": "2638",
     "slug": "wheel-of-dharma"
   },
   {
@@ -8676,7 +8676,7 @@
     "names": [
       "yin_yang"
     ],
-    "codepoint": "262f-fe0f",
+    "codepoint": "262f",
     "slug": "yin-yang"
   },
   {
@@ -8685,7 +8685,7 @@
       "christian_cross",
       "latin_cross"
     ],
-    "codepoint": "271d-fe0f",
+    "codepoint": "271d",
     "slug": "latin-cross"
   },
   {
@@ -8693,7 +8693,7 @@
     "names": [
       "orthodox_cross"
     ],
-    "codepoint": "2626-fe0f",
+    "codepoint": "2626",
     "slug": "orthodox-cross"
   },
   {
@@ -8701,7 +8701,7 @@
     "names": [
       "star_and_crescent"
     ],
-    "codepoint": "262a-fe0f",
+    "codepoint": "262a",
     "slug": "star-and-crescent"
   },
   {
@@ -8709,7 +8709,7 @@
     "names": [
       "peace_symbol"
     ],
-    "codepoint": "262e-fe0f",
+    "codepoint": "262e",
     "slug": "peace-symbol"
   },
   {
@@ -8876,7 +8876,7 @@
       "play_button",
       "right_triangle"
     ],
-    "codepoint": "25b6-fe0f",
+    "codepoint": "25b6",
     "slug": "play-button"
   },
   {
@@ -8896,7 +8896,7 @@
       "next_track_button",
       "track_next"
     ],
-    "codepoint": "23ed-fe0f",
+    "codepoint": "23ed",
     "slug": "next-track-button"
   },
   {
@@ -8906,7 +8906,7 @@
       "play_or_pause_button",
       "play_pause"
     ],
-    "codepoint": "23ef-fe0f",
+    "codepoint": "23ef",
     "slug": "play-or-pause-button"
   },
   {
@@ -8916,7 +8916,7 @@
       "left_triangle",
       "reverse_button"
     ],
-    "codepoint": "25c0-fe0f",
+    "codepoint": "25c0",
     "slug": "reverse-button"
   },
   {
@@ -8937,7 +8937,7 @@
       "previous_track_button",
       "track_previous"
     ],
-    "codepoint": "23ee-fe0f",
+    "codepoint": "23ee",
     "slug": "last-track-button"
   },
   {
@@ -8985,7 +8985,7 @@
       "pause",
       "pause_button"
     ],
-    "codepoint": "23f8-fe0f",
+    "codepoint": "23f8",
     "slug": "pause-button"
   },
   {
@@ -8994,7 +8994,7 @@
       "black_square_for_stop",
       "stop_button"
     ],
-    "codepoint": "23f9-fe0f",
+    "codepoint": "23f9",
     "slug": "stop-button"
   },
   {
@@ -9004,7 +9004,7 @@
       "record",
       "record_button"
     ],
-    "codepoint": "23fa-fe0f",
+    "codepoint": "23fa",
     "slug": "record-button"
   },
   {
@@ -9014,7 +9014,7 @@
       "eject_button",
       "eject_symbol"
     ],
-    "codepoint": "23cf-fe0f",
+    "codepoint": "23cf",
     "slug": "eject-button"
   },
   {
@@ -9082,7 +9082,7 @@
       "heavy_multiplication_x",
       "multiply"
     ],
-    "codepoint": "2716-fe0f",
+    "codepoint": "2716",
     "slug": "multiply"
   },
   {
@@ -9118,7 +9118,7 @@
       "bangbang",
       "double_exclamation_mark"
     ],
-    "codepoint": "203c-fe0f",
+    "codepoint": "203c",
     "slug": "double-exclamation-mark"
   },
   {
@@ -9127,7 +9127,7 @@
       "exclamation_question_mark",
       "interrobang"
     ],
-    "codepoint": "2049-fe0f",
+    "codepoint": "2049",
     "slug": "exclamation-question-mark"
   },
   {
@@ -9172,7 +9172,7 @@
     "names": [
       "wavy_dash"
     ],
-    "codepoint": "3030-fe0f",
+    "codepoint": "3030",
     "slug": "wavy-dash"
   },
   {
@@ -9199,7 +9199,7 @@
       "recycle_logo",
       "recycling_symbol"
     ],
-    "codepoint": "267b-fe0f",
+    "codepoint": "267b",
     "slug": "recycling-symbol"
   },
   {
@@ -9209,7 +9209,7 @@
       "new_orleans_saints",
       "scouts"
     ],
-    "codepoint": "269c-fe0f",
+    "codepoint": "269c",
     "slug": "fleur-de-lis"
   },
   {
@@ -9275,7 +9275,7 @@
       "check_mark_in_box",
       "checkbox"
     ],
-    "codepoint": "2611-fe0f",
+    "codepoint": "2611",
     "slug": "check-box-with-check"
   },
   {
@@ -9286,7 +9286,7 @@
       "heavy_check_mark",
       "tick"
     ],
-    "codepoint": "2714-fe0f",
+    "codepoint": "2714",
     "slug": "check-mark"
   },
   {
@@ -9334,7 +9334,7 @@
       "mcdonalds",
       "part_alternation_mark"
     ],
-    "codepoint": "303d-fe0f",
+    "codepoint": "303d",
     "slug": "part-alternation-mark"
   },
   {
@@ -9342,7 +9342,7 @@
     "names": [
       "eight_spoked_asterisk"
     ],
-    "codepoint": "2733-fe0f",
+    "codepoint": "2733",
     "slug": "eight-spoked-asterisk"
   },
   {
@@ -9352,7 +9352,7 @@
       "eight_pointed_star",
       "orange_star"
     ],
-    "codepoint": "2734-fe0f",
+    "codepoint": "2734",
     "slug": "eight-pointed-star"
   },
   {
@@ -9360,7 +9360,7 @@
     "names": [
       "sparkle"
     ],
-    "codepoint": "2747-fe0f",
+    "codepoint": "2747",
     "slug": "sparkle"
   },
   {
@@ -9368,7 +9368,7 @@
     "names": [
       "copyright"
     ],
-    "codepoint": "a9-fe0f",
+    "codepoint": "a9",
     "slug": "copyright"
   },
   {
@@ -9376,7 +9376,7 @@
     "names": [
       "registered"
     ],
-    "codepoint": "ae-fe0f",
+    "codepoint": "ae",
     "slug": "registered"
   },
   {
@@ -9385,7 +9385,7 @@
       "tm",
       "trade_mark"
     ],
-    "codepoint": "2122-fe0f",
+    "codepoint": "2122",
     "slug": "trade-mark"
   },
   {
@@ -9457,7 +9457,7 @@
       "a_button_blood_type_",
       "blood_type_a"
     ],
-    "codepoint": "1f170-fe0f",
+    "codepoint": "1f170",
     "slug": "a-button-blood-type"
   },
   {
@@ -9477,7 +9477,7 @@
       "b_button_blood_type_",
       "blood_type_b"
     ],
-    "codepoint": "1f171-fe0f",
+    "codepoint": "1f171",
     "slug": "b-button-blood-type"
   },
   {
@@ -9518,7 +9518,7 @@
       "lowercase_i",
       "tourist_information"
     ],
-    "codepoint": "2139-fe0f",
+    "codepoint": "2139",
     "slug": "information"
   },
   {
@@ -9536,7 +9536,7 @@
     "names": [
       "circled_m"
     ],
-    "codepoint": "24c2-fe0f",
+    "codepoint": "24c2",
     "slug": "circled-m"
   },
   {
@@ -9565,7 +9565,7 @@
       "o2",
       "o_button_blood_type_"
     ],
-    "codepoint": "1f17e-fe0f",
+    "codepoint": "1f17e",
     "slug": "o-button-blood-type"
   },
   {
@@ -9584,7 +9584,7 @@
       "p_button",
       "parking"
     ],
-    "codepoint": "1f17f-fe0f",
+    "codepoint": "1f17f",
     "slug": "p-button"
   },
   {
@@ -9634,7 +9634,7 @@
       "japanese_service_charge_button",
       "sa"
     ],
-    "codepoint": "1f202-fe0f",
+    "codepoint": "1f202",
     "slug": "japanese-service-charge-button"
   },
   {
@@ -9643,7 +9643,7 @@
       "japanese_monthly_amount_button",
       "radical_74"
     ],
-    "codepoint": "1f237-fe0f",
+    "codepoint": "1f237",
     "slug": "japanese-monthly-amount-button"
   },
   {
@@ -9744,7 +9744,7 @@
       "congratulations",
       "japanese_congratulations_button"
     ],
-    "codepoint": "3297-fe0f",
+    "codepoint": "3297",
     "slug": "japanese-congratulations-button"
   },
   {
@@ -9752,7 +9752,7 @@
     "names": [
       "japanese_secret_button"
     ],
-    "codepoint": "3299-fe0f",
+    "codepoint": "3299",
     "slug": "japanese-secret-button"
   },
   {
@@ -9825,7 +9825,7 @@
     "names": [
       "black_medium_square"
     ],
-    "codepoint": "25fc-fe0f",
+    "codepoint": "25fc",
     "slug": "black-medium-square"
   },
   {
@@ -9833,7 +9833,7 @@
     "names": [
       "white_medium_square"
     ],
-    "codepoint": "25fb-fe0f",
+    "codepoint": "25fb",
     "slug": "white-medium-square"
   },
   {
@@ -9857,7 +9857,7 @@
     "names": [
       "black_small_square"
     ],
-    "codepoint": "25aa-fe0f",
+    "codepoint": "25aa",
     "slug": "black-small-square"
   },
   {
@@ -9865,7 +9865,7 @@
     "names": [
       "white_small_square"
     ],
-    "codepoint": "25ab-fe0f",
+    "codepoint": "25ab",
     "slug": "white-small-square"
   },
   {
@@ -10002,7 +10002,7 @@
       "waving_white_flag",
       "white_flag"
     ],
-    "codepoint": "1f3f3-fe0f",
+    "codepoint": "1f3f3",
     "slug": "white-flag"
   },
   {
@@ -12847,7 +12847,7 @@
       "left_speech_bubble",
       "speech_left"
     ],
-    "codepoint": "1f5e8-fe0f",
+    "codepoint": "1f5e8",
     "slug": "left-speech-bubble"
   },
   {
@@ -23826,7 +23826,7 @@
       "venus_symbol",
       "woman_symbol"
     ],
-    "codepoint": "2640-fe0f",
+    "codepoint": "2640",
     "slug": "female-sign"
   },
   {
@@ -23836,7 +23836,7 @@
       "man_symbol",
       "mars_symbol"
     ],
-    "codepoint": "2642-fe0f",
+    "codepoint": "2642",
     "slug": "male-sign"
   },
   {
@@ -23848,7 +23848,7 @@
       "rod_of_asclepius",
       "staff_of_aesculapius"
     ],
-    "codepoint": "2695-fe0f",
+    "codepoint": "2695",
     "slug": "medical-symbol"
   },
   {
@@ -27370,7 +27370,7 @@
     "names": [
       "chess_pawn"
     ],
-    "codepoint": "265f-fe0f",
+    "codepoint": "265f",
     "slug": "chess-pawn"
   },
   {
@@ -27560,7 +27560,7 @@
     "names": [
       "infinity"
     ],
-    "codepoint": "267e-fe0f",
+    "codepoint": "267e",
     "slug": "infinity"
   },
   {
@@ -32129,7 +32129,7 @@
       "transgender_sign",
       "transgender_symbol"
     ],
-    "codepoint": "26a7-fe0f",
+    "codepoint": "26a7",
     "slug": "transgender-symbol"
   },
   {
